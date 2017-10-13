@@ -10,6 +10,7 @@
 #import "BaseNavigationController.h"
 #import "BaseViewController.h"
 #import "HomeViewController.h"
+#import "MineViewController.h"
 
 
 @interface TabBarViewController ()
@@ -37,7 +38,7 @@
                    title:@"发现"
                    image:@"discover"
            selectedImage:@"discover_selected"];
-        [self addChildVc:[[BaseViewController alloc] init]
+        [self addChildVc:[[MineViewController alloc] init]
                    title:@"我的"
                    image:@"mine"
            selectedImage:@"mine_selected"];

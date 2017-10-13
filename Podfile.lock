@@ -14,19 +14,22 @@ PODS:
   - AFNetworking/Serialization (3.1.0)
   - AFNetworking/UIKit (3.1.0):
     - AFNetworking/NSURLSession
+  - FDFullscreenPopGesture (1.1)
   - Masonry (1.0.2)
   - MJExtension (3.0.13)
 
 DEPENDENCIES:
   - AFNetworking
+  - FDFullscreenPopGesture (~> 1.1)
   - Masonry
   - MJExtension
 
 SPEC CHECKSUMS:
   AFNetworking: 5e0e199f73d8626b11e79750991f5d173d1f8b67
+  FDFullscreenPopGesture: a8a620179e3d9c40e8e00256dcee1c1a27c6d0f0
   Masonry: 7c429b56da9d4ee0bbb3ed77a5ea710d6a5df39e
   MJExtension: 5932755f451458eefa24239358817f8d291240c7
 
-PODFILE CHECKSUM: 21670e18b36b91c61383434cffea3d414b263371
+PODFILE CHECKSUM: 8b1ea0ee7fc5d591f0c49de72d96196b34b91491
 
 COCOAPODS: 1.1.1

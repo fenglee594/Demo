@@ -14,6 +14,7 @@
 #import <Masonry.h>
 
 #import "UIImage+Color.h"
+#import "UIImage+Initial.h"
 
 #import "Storage.h"
 #import "Navigator.h"

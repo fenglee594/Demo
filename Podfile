@@ -19,4 +19,5 @@ target 'Demo' do
     pod 'AFNetworking'
     pod 'MJExtension'
     pod 'Masonry'
+    pod 'FDFullscreenPopGesture', '~> 1.1'
 end
